@@ -1,1 +1,1 @@
-# portfolio-gabibsdev
+# Vite + React + Typescript + Eslint + Prettier + TailwindCSS
